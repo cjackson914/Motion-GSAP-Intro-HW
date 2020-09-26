@@ -379,7 +379,37 @@ textarea {
 /* =============
     Demo
 ============= */
-.red-box {
+.triangleyellow {
+  width: 0;
+  height: 0;
+  z-index: 0;
+  border-bottom: 250px solid #EFD9A7;
+  border-right: 250px solid transparent; }
+
+.rectangleblue {
+  width: 150px;
+  height: 275px;
+  z-index: 500;
+  background-color: #617F7F; }
+
+.triangleorange {
+  width: 0;
+  height: 0;
+  z-index: 1000;
+  border-bottom: 175px solid #C97F04;
+  border-left: 225px solid transparent; }
+
+.linenavy1 {
+  border-top: 6px solid #192D2E;
+  width: 250px;
+  z-index: 2000; }
+
+.linenavy2 {
+  border-top: 6px solid #192D2E;
+  width: 175px;
+  z-index: 3000; }
+
+.lineorange {
+  border-left: 6px solid #C97F04;
   height: 200px;
-  width: 200px;
-  background-color: #f13232; }
+  z-index: 4000; }

@@ -2,8 +2,43 @@
     Demo
 ============= */
 
-.red-box{
+.triangleyellow{
+    width: 0;
+    height: 0;
+    z-index: 0;
+    border-bottom: 250px solid $yellow;
+    border-right: 250px solid transparent;
+}
+
+.rectangleblue{
+    width: 150px;
+    height: 275px;
+    z-index: 500;
+    background-color: $blue;
+}
+
+.triangleorange{
+    width: 0;
+    height: 0;
+    z-index: 1000;
+    border-bottom: 175px solid $orange;
+    border-left: 225px solid transparent;
+}
+
+.linenavy1{
+    border-top: 6px solid $navy;
+    width: 250px;
+    z-index: 2000;
+}
+
+.linenavy2{
+    border-top: 6px solid $navy;
+    width: 175px;
+    z-index: 3000;
+}
+
+.lineorange{
+    border-left: 6px solid $orange;
     height: 200px;
-    width: 200px;
-    background-color: $red;
+    z-index: 4000;
 }
