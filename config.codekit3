@@ -78,13 +78,16 @@
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
-	"/dev/js/animationSpeed": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/animationSpeed.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/animationSpeed",
-		"oF": 0
+		"oAP": "/dev/js/animationSpeed-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
 		},
 	"/dev/js/demo.js": {
 		"bF": 0,
@@ -97,37 +100,49 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/dev/js/lineNavy1": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/lineNavy1.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/lineNavy1",
-		"oF": 0
+		"oAP": "/dev/js/lineNavy1-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
-	"/dev/js/lineNavy2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/lineNavy2.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/lineNavy2",
-		"oF": 0
+		"oAP": "/dev/js/lineNavy2-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
-	"/dev/js/lineOrange": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/lineOrange.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/lineOrange",
-		"oF": 0
+		"oAP": "/dev/js/lineOrange-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
-	"/dev/js/rectangleBlue": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/rectangleBlue.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/rectangleBlue",
-		"oF": 0
+		"oAP": "/dev/js/rectangleBlue-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/dev/js/scripts.js": {
 		"bF": 4,
@@ -140,21 +155,27 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/dev/js/triangleOrange": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/triangleOrange.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/triangleOrange",
-		"oF": 0
+		"oAP": "/dev/js/triangleOrange-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
-	"/dev/js/triangleYellow": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/js/triangleYellow.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/dev/js/triangleYellow",
-		"oF": 0
+		"oAP": "/dev/js/triangleYellow-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/dev/scss/base/_base.scss": {
 		"aP": 0,
