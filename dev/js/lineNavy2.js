@@ -4,8 +4,8 @@ import {shapeSpeed} from "./animationSpeed.js"
 export function lineNavy2Animation(){
 
     var tl = gsap.timeline();
-    tl.from(".lineNavy2",{duration: shapeSpeed, x: -1000, y: -450, alpha: 0});
-    tl.to(".lineNavy2",{duration: shapeSpeed, x: 200, y: -450});
+    tl.from(".linenavy2",{duration: shapeSpeed, x: -1000, y: -450, alpha: 0});
+    tl.to(".linenavy2",{duration: shapeSpeed, x: 200, y: -450});
 
     return tl;
 }

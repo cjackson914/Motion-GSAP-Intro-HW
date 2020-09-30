@@ -4,8 +4,8 @@ import {shapeSpeed} from "./animationSpeed.js"
 export function triangleYellowAnimation(){
 
     var tl = gsap.timeline();
-    tl.from(".triangleYellow",{duration: shapeSpeed, x: -1000, y: -1000, alpha: 0});
-    tl.to(".triangleYellow",{duration: shapeSpeed, x: 200, y: 300});
+    tl.from(".triangleyellow",{duration: shapeSpeed, x: -1000, y: -1000, alpha: 0});
+    tl.to(".triangleyellow",{duration: shapeSpeed, x: 200, y: 300});
 
     return tl;
 }

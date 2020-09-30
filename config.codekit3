@@ -107,7 +107,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/dev/js/lineNavy1-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -118,7 +118,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/dev/js/lineNavy2-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -129,7 +129,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/dev/js/lineOrange-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -138,9 +138,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/dev/js/rectangleBlue-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -160,9 +160,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/dev/js/triangleOrange-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
