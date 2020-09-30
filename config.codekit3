@@ -94,7 +94,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/dev/js/demo-min.js",
 		"oF": 0,
 		"sC": 3,
@@ -173,7 +173,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/dev/js/triangleYellow-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},

@@ -1,1 +1,1 @@
-export var shapeSpeed = 1;
+export var shapeSpeed = 3;

@@ -1,0 +1,1 @@
+var animationSpeed_min=function(e){"use strict";return e.shapeSpeed=3,e}({});
