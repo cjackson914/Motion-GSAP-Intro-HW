@@ -78,6 +78,14 @@
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
+	"/dev/js/animationSpeed": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/js/animationSpeed",
+		"oF": 0
+		},
 	"/dev/js/demo.js": {
 		"bF": 0,
 		"ft": 64,
